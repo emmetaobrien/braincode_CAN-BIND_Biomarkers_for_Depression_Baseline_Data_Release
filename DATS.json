@@ -1,0 +1,504 @@
+{
+  "title": "Integrated Biological Markers for the Prediction of Treatment Response in Depression: Data Release from the foundational study of the Canadian Biomarker Integration Network in Depression (CAN-BIND-01)",
+  "description": "The Canadian Biomarker Integration Network in Depression (CAN-BIND) is a national program of research and learning. From 2013 to 2017, data were collected from 211 participants with major depressive disorder and 112 healthy individuals. The objective of this data-set is to integrate detailed clinical, imaging, and molecular data to predict outcome for patients experiencing a Major Depressive Episode (MDE) and receiving pharmacotherapy reflective of standard practice. The clinical characterization consists of symptom assessment, behavioural dimensions, and environmental factors. The neuroimaging data consist of structural, resting and task-based functional, and diffusion-weighted MRI images, as well as scalp-recorded EEG data. The molecular data currently consist of DNA methylation, inflammatory markers and urine metabolites. This data release includes baseline data for 309 participants.",
+  "dates": [
+    {
+      "date": "2013-06-03 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2018-12-31 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "depression"
+      }
+    },
+    {
+      "information": {
+        "value": "biomarkers"
+      }
+    },
+    {
+      "information": {
+        "value": "neuroimaging"
+      }
+    },
+    {
+      "information": {
+        "value": "Escitalopram"
+      }
+    },
+    {
+      "information": {
+        "value": "Aripiprazole"
+      }
+    },
+    {
+      "information": {
+        "value": "antidepressant drug"
+      }
+    },
+    {
+      "information": {
+        "value": "Anhedonia"
+      }
+    },
+    {
+      "information": {
+        "value": "metabolites"
+      }
+    },
+    {
+      "information": {
+        "value": "fMRI"
+      }
+    },
+    {
+      "information": {
+        "value": "Structural MRI"
+      }
+    },
+    {
+      "information": {
+        "value": "Diffusion tensor imaging"
+      }
+    },
+    {
+      "information": {
+        "value": "electroencephalography "
+      }
+    },
+    {
+      "information": {
+        "value": "genomics"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "FDT",
+        "SET",
+        "BVAL",
+        "BVEC",
+        "CSV",
+        "EDAT",
+        "EDF",
+        "FDT",
+        "NIfTI",
+        "PDF"
+      ],
+      "size": 52,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "primaryPublications": [
+    {
+      "identifier": {
+        "identifier": "https://doi.org/10.1186/s12888-016-0785-x",
+        "identifierSource": "https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-016-0785-x"
+      },
+      "title": "Discovering biomarkers for antidepressant response: protocol from the Canadian biomarker integration network in depression (CAN-BIND) and clinical characteristics of the first patient cohort",
+      "dates": [
+        {
+          "type": {
+            "value": "primary reference publication date"
+          },
+          "date": "2016-04-16 00:00:00"
+        }
+      ],
+      "publicationVenue": "BMC Psychiatry",
+      "authors": [
+        {
+          "fullName": "Raymond W. Lam",
+          "firstName": "Raymond W.",
+          "lastName": "Lam"
+        },
+        {
+          "fullName": "Roumen Milev",
+          "firstName": "Roumen",
+          "lastName": "Milev"
+        },
+        {
+          "fullName": "Susan Rotzinger",
+          "firstName": "Susan",
+          "lastName": "Rotzinger"
+        },
+        {
+          "fullName": "Ana C. Andreazza",
+          "firstName": "Ana C.",
+          "lastName": "Andreazza"
+        },
+        {
+          "fullName": "Pierre Blier",
+          "firstName": "Pierre",
+          "lastName": "Blier"
+        },
+        {
+          "fullName": "Colleen Brenner",
+          "firstName": "Colleen",
+          "lastName": "Brenner"
+        },
+        {
+          "fullName": "Zafiris J. Daskalakis",
+          "firstName": "Zafiris J.",
+          "lastName": "Daskalakis"
+        },
+        {
+          "fullName": "Moyez Dharsee",
+          "firstName": "Moyez",
+          "lastName": "Dharsee"
+        },
+        {
+          "fullName": "Jonathan Downar",
+          "firstName": "Jonathan",
+          "lastName": "Downar"
+        },
+        {
+          "fullName": "Kenneth R. Evans",
+          "firstName": "Kenneth R.",
+          "lastName": "Evans"
+        },
+        {
+          "fullName": "Faranak Farzan",
+          "firstName": "Faranak",
+          "lastName": "Farzan"
+        },
+        {
+          "fullName": "Jane A. Foster",
+          "firstName": "Jane A.",
+          "lastName": "Foster"
+        },
+        {
+          "fullName": "Benicio N. Frey",
+          "firstName": "Benicio N.",
+          "lastName": "Frey"
+        },
+        {
+          "fullName": "Joseph Geraci",
+          "firstName": "Joseph",
+          "lastName": "Geraci"
+        },
+        {
+          "fullName": "Peter Giacobbe",
+          "firstName": "Peter",
+          "lastName": "Giacobbe"
+        },
+        {
+          "fullName": "Harriet E. Feilotter",
+          "firstName": "Harriet E.",
+          "lastName": "Feilotter"
+        },
+        {
+          "fullName": "Geoffrey B. Hall",
+          "firstName": "Geoffrey B.",
+          "lastName": "Hall"
+        },
+        {
+          "fullName": "Kate L. Harkness",
+          "firstName": "Kate L.",
+          "lastName": "Harkness"
+        },
+        {
+          "fullName": "Stefanie Hassel",
+          "firstName": "Stefanie",
+          "lastName": "Hassel"
+        },
+        {
+          "fullName": "Zahinoor Ismail",
+          "firstName": "Zahinoor",
+          "lastName": "Ismail"
+        },
+        {
+          "fullName": "Francesco Leri",
+          "firstName": "Francesco",
+          "lastName": "Leri"
+        },
+        {
+          "fullName": "Mario Liotti",
+          "firstName": "Mario",
+          "lastName": "Liotti"
+        },
+        {
+          "fullName": "Glenda M. MacQueen",
+          "firstName": "Glenda M.",
+          "lastName": "MacQueen"
+        },
+        {
+          "fullName": "Mary Pat McAndrews",
+          "firstName": "Mary Pat",
+          "lastName": "McAndrews"
+        },
+        {
+          "fullName": "Luciano Minuzzi",
+          "firstName": "Luciano",
+          "lastName": "Minuzzi"
+        },
+        {
+          "fullName": "Daniel J. Müller",
+          "firstName": "Daniel J.",
+          "lastName": "Müller"
+        },
+        {
+          "fullName": "Sagar V. Parikh",
+          "firstName": "Sagar V.",
+          "lastName": "Parikh"
+        },
+        {
+          "fullName": "Franca M. Placenza",
+          "firstName": "Franca M.",
+          "lastName": "Placenza"
+        },
+        {
+          "fullName": "Lena C. Quilty",
+          "firstName": "Lena C.",
+          "lastName": "Quilty"
+        },
+        {
+          "fullName": "Arun V. Ravindran",
+          "firstName": "Arun V.",
+          "lastName": "Ravindran"
+        },
+        {
+          "fullName": "Tim V. Salomons",
+          "firstName": "Tim V.",
+          "lastName": "Salomons"
+        },
+        {
+          "fullName": "Claudio N. Soares",
+          "firstName": "Claudio N.",
+          "lastName": "Soares"
+        },
+        {
+          "fullName": "Stephen C. Strother",
+          "firstName": "Stephen C.",
+          "lastName": "Strother"
+        },
+        {
+          "fullName": "Gustavo Turecki",
+          "firstName": "Gustavo",
+          "lastName": "Turecki"
+        },
+        {
+          "fullName": "Anthony L. Vaccarino",
+          "firstName": "Anthony L.",
+          "lastName": "Vaccarino"
+        },
+        {
+          "fullName": "Fidel Vila-Rodriguez",
+          "firstName": "Fidel",
+          "lastName": "Vila-Rodriguez"
+        },
+        {
+          "fullName": "Sidney H. Kennedy",
+          "firstName": "Sidney H.",
+          "lastName": "Kennedy"
+        }
+      ]
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Canadian Institute of Health Research",
+          "abbreviation": "CIHR"
+        },
+        {
+          "name": "Government of Ontario"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "depression"
+    },
+    {
+      "value": "biomarkers"
+    },
+    {
+      "value": "neuroimaging"
+    },
+    {
+      "value": "escitalopram"
+    },
+    {
+      "value": "aripiprazole"
+    },
+    {
+      "value": "antidepressant"
+    },
+    {
+      "value": "anhedonia"
+    },
+    {
+      "value": "inflammatory markers"
+    },
+    {
+      "value": "cytokines"
+    },
+    {
+      "value": "metabolites"
+    },
+    {
+      "value": "resting state"
+    },
+    {
+      "value": "fMRI"
+    },
+    {
+      "value": "DTI"
+    },
+    {
+      "value": "EEG"
+    },
+    {
+      "value": "genomics"
+    },
+    {
+      "value": "quality of life"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": 323
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": 77
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/sites/default/files/dr008_logo_cbn.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
