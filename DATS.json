@@ -1,6 +1,6 @@
 {
   "title": "Integrated Biological Markers for the Prediction of Treatment Response in Depression: Data Release from the foundational study of the Canadian Biomarker Integration Network in Depression (CAN-BIND-01)",
-  "description": "The Canadian Biomarker Integration Network in Depression (CAN-BIND) is a national program of research and learning. From 2013 to 2017, data were collected from 211 participants with major depressive disorder and 112 healthy individuals. The objective of this data-set is to integrate detailed clinical, imaging, and molecular data to predict outcome for patients experiencing a Major Depressive Episode (MDE) and receiving pharmacotherapy reflective of standard practice. The clinical characterization consists of symptom assessment, behavioural dimensions, and environmental factors. The neuroimaging data consist of structural, resting and task-based functional, and diffusion-weighted MRI images, as well as scalp-recorded EEG data. The molecular data currently consist of DNA methylation, inflammatory markers and urine metabolites. This data release includes baseline data for 309 participants.",
+  "description": "The Canadian Biomarker Integration Network in Depression (CAN-BIND) is a national program of research and learning. From 2013 to 2017, data were collected from 211 participants with major depressive disorder and 112 healthy individuals. The objective of this data-set is to integrate detailed clinical, imaging, and molecular data to predict outcome for patients experiencing a Major Depressive Episode (MDE) and receiving pharmacotherapy reflective of standard practice. The clinical characterization consists of symptom assessment, behavioural dimensions, and environmental factors. The neuroimaging data consist of structural, resting and task-based functional, and diffusion-weighted MRI images, as well as scalp-recorded EEG data. The molecular data currently consist of DNA methylation, inflammatory markers and urine metabolites. Baseline and Phase 1 (Weeks 2-8) data are now available for request.",
   "dates": [
     {
       "date": "2013-06-03 00:00:00",
@@ -92,7 +92,7 @@
       }
     }
   ],
-  "version": "1.0",
+  "version": "2.0",
   "privacy": "controlled",
   "licenses": [
     {
@@ -111,9 +111,10 @@
         "EDF",
         "FDT",
         "NIfTI",
-        "PDF"
+        "PDF",
+        "JSON"
       ],
-      "size": 52,
+      "size": 159.55,
       "unit": {
         "value": "GB"
       },
@@ -121,7 +122,7 @@
         "landingPage": "https://www.braincode.ca/",
         "authorizations": [
           {
-            "value": "restricted"
+            "value": "registered"
           }
         ]
       }
@@ -417,6 +418,30 @@
     },
     {
       "value": "quality of life"
+    },
+    {
+      "value": "Structural MRI"
+    },
+    {
+      "value": "Diffusion tensor imaging"
+    },
+    {
+      "value": "Electroencephalography"
+    },
+    {
+      "value": "Genomics"
+    },
+    {
+      "value": "Metabolomics"
+    },
+    {
+      "value": "Methylation"
+    },
+    {
+      "value": "Inflammatory markers"
+    },
+    {
+      "value": "PDT2"
     }
   ],
   "extraProperties": [
@@ -424,7 +449,7 @@
       "category": "subjects",
       "values": [
         {
-          "value": 323
+          "value": "309"
         }
       ]
     },
@@ -432,7 +457,7 @@
       "category": "files",
       "values": [
         {
-          "value": 77
+          "value": "14990"
         }
       ]
     },
@@ -480,7 +505,7 @@
       "category": "logo",
       "values": [
         {
-          "value": "dr008_logo_cbn.png"
+          "value": "https://www.braincode.ca/sites/default/files/dr008_logo_cbn.png"
         }
       ]
     },
