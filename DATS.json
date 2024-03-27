@@ -28,37 +28,45 @@
   "types": [
     {
       "information": {
-        "value": "depression"
+        "value": "depression",
+		"valueIRI": "http://uri.interlex.org/ilx_0103094"
       }
     },
     {
       "information": {
-        "value": "biomarkers"
+        "value": "biomarkers",
+		"valueIRI": "http://uri.interlex.org/ilx_0779356"
       }
     },
     {
       "information": {
-        "value": "neuroimaging"
+        "value": "neuroimaging",
+		"valueIRI": "http://uri.interlex.org/ilx_0741206"
+
       }
     },
     {
       "information": {
-        "value": "Escitalopram"
+        "value": "Escitalopram",
+		"valueIRI": "http://uri.interlex.org/ilx_0103929"
       }
     },
     {
       "information": {
-        "value": "Aripiprazole"
+        "value": "Aripiprazole",
+		"valueIRI": "http://uri.interlex.org/ilx_0100895"
       }
     },
     {
       "information": {
-        "value": "antidepressant drug"
+        "value": "antidepressant drug",
+		"valueIRI": "http://uri.interlex.org/ilx_0100792"
       }
     },
     {
       "information": {
-        "value": "Anhedonia"
+        "value": "Anhedonia",
+		"valueIRI": "http://uri.interlex.org/ilx_0490167"
       }
     },
     {
@@ -68,7 +76,8 @@
     },
     {
       "information": {
-        "value": "fMRI"
+        "value": "fMRI",
+		"valueIRI": "http://uri.interlex.org/ilx_0506130"
       }
     },
     {
@@ -78,17 +87,20 @@
     },
     {
       "information": {
-        "value": "Diffusion tensor imaging"
+        "value": "Diffusion tensor imaging",
+		"valueIRI": "http://uri.interlex.org/ilx_0103240"
       }
     },
     {
       "information": {
-        "value": "electroencephalography "
+        "value": "electroencephalography",
+		"valueIRI": "http://uri.interlex.org/ilx_0741211"
       }
     },
     {
       "information": {
-        "value": "genomics"
+        "value": "genomics",
+		"valueIRI": "http://uri.interlex.org/ilx_0741204"
       }
     }
   ],
